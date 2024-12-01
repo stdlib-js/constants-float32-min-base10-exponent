@@ -159,8 +159,6 @@ Macro for the minimum base 10 exponent for a normal [single-precision floating-p
 
 <section class="related">
 
-* * *
-
 </section>
 
 <!-- /.related -->

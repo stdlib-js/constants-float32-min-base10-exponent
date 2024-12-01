@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`92c0d4e`](https://github.com/stdlib-js/stdlib/commit/92c0d4e65a8ffef2a2264ba906cfe8020c483b13) - **docs:** clean-up and use C floats when appropriate _(by Philipp Burckhardt)_
 -   [`824d519`](https://github.com/stdlib-js/stdlib/commit/824d5196406ebb5c9f73aedfd69d30fd6df0e2e0) - **feat:** add `constants/float32/min-base10-exponent` [(#3092)](https://github.com/stdlib-js/stdlib/pull/3092) _(by Gururaj Gurram, Philipp Burckhardt)_
 
 </details>
