@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT32_MIN_BASE10_EXPONENT from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-min-base10-exponent@esm/index.mjs';
+import FLOAT32_MIN_BASE10_EXPONENT from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-min-base10-exponent@v0.1.0-esm/index.mjs';
 ```
 
 #### FLOAT32_MIN_BASE10_EXPONENT
@@ -78,7 +78,7 @@ var bool = ( FLOAT32_MIN_BASE10_EXPONENT === -37 );
 <body>
 <script type="module">
 
-import FLOAT32_MIN_BASE10_EXPONENT from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-min-base10-exponent@esm/index.mjs';
+import FLOAT32_MIN_BASE10_EXPONENT from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-min-base10-exponent@v0.1.0-esm/index.mjs';
 
 console.log( FLOAT32_MIN_BASE10_EXPONENT );
 // => -37
